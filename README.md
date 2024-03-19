@@ -1,5 +1,4 @@
-# 💚 FREE OLD ID CLONING TOOLS ENJOY MY USER 💚
-
+# 💚 FREE OLD ID CLONING TOOLS 💚
 pkg update
 
 pkg upgrade
@@ -28,9 +27,7 @@ ls
 
 python3 ROKY.py
 
-
 # 🖤_RUN SHORT COMMANDS_🖤
-
 cd OLD-ID
 
 ls
@@ -40,3 +37,5 @@ chmod +x *
 ls
 
 python3 ROKY.py
+
+# NOTE : THIS TOOLD IS FREE BUT  NEED A PARMISON  FOR USE THIS TOOLS ENJOY❤️
