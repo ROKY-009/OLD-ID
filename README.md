@@ -14,9 +14,9 @@
 
 # <h4 align="center">🔰 MAIN COMMAND 🔰
 </h4>
-- `rm -rf OLD-ID
+- `rm -rf OLD-ID`
 
-- `git clone https://github.com/ROKY-009/OLD-ID
+- `git clone https://github.com/ROKY-009/cd OLD-ID`
 
 - `cd OLD-ID`
 - `ls`
