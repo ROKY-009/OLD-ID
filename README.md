@@ -14,7 +14,9 @@
 
 # <h4 align="center">🔰 MAIN COMMAND 🔰
 </h4>
+
 - `rm -rf OLD-ID` 
+
 - `git clone https://github.com/ROKY-009/cd OLD-ID`
 
 - `cd OLD-ID`
@@ -24,12 +26,13 @@
 - `python3 ROKY.py`
 
 # <h4 align="center">🖤_RUN SHORT COMMANDS_🖤</h4>
-- `cd OLD-ID
-- `
-cd OLD-IDchmod +x *
 
-ls
+- `cd OLD-ID `
 
-python3 ROKY.py
+- `cd OLD-IDchmod +x * `
+
+- `ls `
+
+- `python3 ROKY.py `
 
 # <h4 align="center">NOTE : THIS TOOLD IS FREE BUT  NEED A PARMISON  FOR USE THIS TOOLS ENJOY❤️</h4>
