@@ -39,4 +39,4 @@
 
 ## [ MY SOCIAL MEDIA ] 
 
-[![WhatsApp](https://img.shields.io/badge/whatsapp-contact-brightgreen?style=for-the-badge&logo=whatsapp)](https://api.whatsapp.com/send/?phone=%2B01315107214&text&app_absent=0)
+[![Facebook](https://img.shields.io/badge/Facebook-TheMentallyTiredRuthlessBoii-dark?style=for-the-badge&logo=facebook)](https://www.facebook.com/noob.hackers)
