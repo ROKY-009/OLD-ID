@@ -12,21 +12,16 @@
 - `idna certifi -y;pip install chardet urllib3`
 - `idna certifi requests`
 
-### 🔰 MAIN COMMAND 🔰
+# 🔰 MAIN COMMAND 🔰
+# [ For Run Command ] 
 
-rm -rf OLD-ID
-
-git clone https://github.com/ROKY-009/OLD-ID
-
-cd OLD-ID
-
-ls
-
-chmod +x *
-
-ls
-
-python3 ROKY.py
+- `rm -rf OLD-ID`
+- `git clone https://github.com/ROKY-009/OLD-ID`
+- `cd OLD-ID`
+- `ls`
+- `chmod +x *`
+- `ls`
+- `python3 ROKY.py`
 
 # 🖤_RUN SHORT COMMANDS_🖤
 cd OLD-ID
