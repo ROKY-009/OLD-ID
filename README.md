@@ -1,7 +1,7 @@
 ## [ MY SOCIAL MEDIA ] 
 
 
-[![Facebook](https://img.shields.io/badge/Facebook-RAKIB HASAN ROKY-dark?style=for-the-badge&logo=facebook)](https://www.facebook.com/profile.php?id=100000398817246)
+[![Facebook](https://img.shields.io/badge/Facebook-rakib hasan roky-dark?style=for-the-badge&logo=facebook)](https://www.facebook.com/profile.php?id=100000398817246)
 
 
 
