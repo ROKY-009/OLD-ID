@@ -1,4 +1,4 @@
-# <h4 align="center">❤️°FREE OLD ID CLONING TOOLS°❤️
+# <h4 align="center">❤️FREE OLD ID CLONING TOOLS❤️
 </h4>
 # [ Basic Termux Modules Installation ] 
 
@@ -12,9 +12,8 @@
 - `idna certifi -y;pip install chardet urllib3`
 - `idna certifi requests`
 
-# 🔰 MAIN COMMAND 🔰
-# [ For Run Command ] 
-
+# <h4 align="center">🔰 MAIN COMMAND 🔰
+</h4>
 - `rm -rf OLD-ID`
 - `git clone https://github.com/ROKY-009/OLD-ID`
 - `cd OLD-ID`
@@ -23,15 +22,13 @@
 - `ls`
 - `python3 ROKY.py`
 
-# 🖤_RUN SHORT COMMANDS_🖤
-cd OLD-ID
-
-ls
-
-chmod +x *
+# <h4 align="center">🖤_RUN SHORT COMMANDS_🖤</h4>
+- `cd OLD-ID
+- `
+cd OLD-IDchmod +x *
 
 ls
 
 python3 ROKY.py
 
-# NOTE : THIS TOOLD IS FREE BUT  NEED A PARMISON  FOR USE THIS TOOLS ENJOY❤️
+# <h4 align="center">NOTE : THIS TOOLD IS FREE BUT  NEED A PARMISON  FOR USE THIS TOOLS ENJOY❤️</h4>
