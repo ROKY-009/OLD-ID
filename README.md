@@ -12,7 +12,7 @@
 - `idna certifi -y;pip install chardet urllib3`
 - `idna certifi requests`
 
-# ` <h4 align="center">🔰 MAIN COMMAND 🔰</h4> `
+# <h4 align="center">🔰 MAIN COMMAND 🔰</h4> 
 
 - `rm -rf OLD-ID` 
 
