@@ -1,18 +1,18 @@
 # <h4 align="center">❤️°FREE OLD ID CLONING TOOLS°❤️
 </h4>
-pkg update
+# [ Basic Termux Modules Installation ] 
 
-pkg upgrade
+- `pkg update`
+- `pkg upgrade`
+- `pkg install git`
+- `pkg install python`
+- `pip install requests`
+- `pip install mechanize`
+- `pip uninstall requests chardet urllib3`
+- `idna certifi -y;pip install chardet urllib3`
+- `idna certifi requests`
 
-pkg install git
-
-pkg install python
-
-pip install requests
-
-pip install mechanize
-
-# 🔰 MAIN COMMAND 🔰
+### 🔰 MAIN COMMAND 🔰
 
 rm -rf OLD-ID
 
