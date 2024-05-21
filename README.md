@@ -25,7 +25,7 @@
 
 - `rm -rf OLD-ID` 
 
-- `git clone https://github.com/ROKY-009/cd OLD-ID`
+- `git clone https://github.com/ROKY-009/OLD-ID`
 
 - `cd OLD-ID`
 - `ls`
